@@ -1,7 +1,3 @@
-Aquí tienes el contenido del README del repositorio **darociion/literalura**, que parece ser exactamente lo que buscabas ([github.com][1]):
-
----
-
 # literAlura (Alura – ONE Java Back‑End Challenge)
 
 Este proyecto es la solución en Java (Back‑End) al desafío del curso de Alura Latam / Oracle Java Back‑End del programa ONE. Se trata de una aplicación de biblioteca que consume la API de Gutendex para obtener información de libros y autores, utilizando Spring, JPA y PostgreSQL
